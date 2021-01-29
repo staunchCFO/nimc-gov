@@ -1,0 +1,240 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.all{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../assets/images/bg-img.jpg);
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 1rem;
+}
+.bt-success{
+    border-top: 10px solid #079112;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+ul{
+    list-style: none;
+}
+.hover-white:hover{
+    background-color: white;
+    color: green;
+}
+.hover-white{
+    color: white;
+    transition: background-color 1s ease , color 1s ease;
+}
+.fr-md-1 {
+    -ms-flex: 0 0 8.333333%;
+    flex: 0 0 8.333333%;
+    max-width: 8.333333%;
+}
+  
+.fr-md-2 {
+    -ms-flex: 0 0 16.666667%;
+    flex: 0 0 16.666667%;
+    max-width: 16.666667%;
+}
+  
+/* .fr-md-3 {
+    -ms-flex: 0 0 25%;
+    flex: 0 0 25%;
+    max-width: 25%;
+} */
+  
+/* .fr-md-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+} */
+  
+.fr-md-5 {
+    -ms-flex: 0 0 41.666667%;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+  
+/* .fr-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+} */
+  
+.fr-md-7 {
+    -ms-flex: 0 0 58.333333%;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+  
+.fr-md-8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+}
+  
+.fr-md-9 {
+    -ms-flex: 0 0 75%;
+    flex: 0 0 75%;
+    max-width: 75%;
+}
+  
+.fr-md-10 {
+    -ms-flex: 0 0 83.333333%;
+    flex: 0 0 83.333333%;
+    max-width: 83.333333%;
+}
+  
+.fr-md-11 {
+    -ms-flex: 0 0 91.666667%;
+    flex: 0 0 91.666667%;
+    max-width: 91.666667%;
+}
+  
+.fr-md-12 {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+marquee{
+    border-top: 1px solid rgb(206, 206, 206);
+    border-bottom: 1px solid rgb(206, 206, 206);
+    padding: 5px 0px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+.bg-green-1{
+    background-color: #04790E;
+}
+.bg-green-2{
+    background-color: #45870C;
+}
+.flex{
+    display: flex;
+}
+.jumbotron-text{
+    font-size: 12px;
+    color: rgb(136, 134, 134);
+}
+.jumbotron-text-2{
+    font-size: 14px;
+    color: rgb(136, 134, 134);
+}
+.jumbotron-text-3{
+    font-size: 13px;
+    color: rgb(136, 134, 134);
+}
+.jumbotron-text-4{
+    font-size: 15px;
+    color: rgb(136, 134, 134);
+}
+.border-green{
+    border: 2px solid green;
+    border-radius: 5px;
+}
+.border-green-2{
+    border: 5px solid green;
+    border-radius: 5px;
+}
+.bg-ash{
+    background-color: #F4F4F4;
+}
+.text-green{
+    color: #054205;
+}
+.text-black{
+    color: black;
+}
+.absoute-p{
+    position: absolute;
+}
+.relative-p{
+    position: relative;
+    top: -20px;
+    right: 5px;
+}
+.lh-1{
+    line-height: -5px;
+}
+.text-light-green{
+    color: #81EEC9;
+}
+.bg-footer{
+    background-color: #007D53;
+}
+.bb-b{
+    border-bottom: 1.7rem solid black;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(146, 197, 146);
+}
+
+
+/*================================= NIMC Profile=============================================== */
+.bb-broken{
+    border-bottom: 2px dotted rgb(144, 219, 144);
+}
+.organisation{
+    font-family: "ABeeZee";
+    color: black;
+}
+.fa{
+    transition: transform 0.5s ease-in;
+}
+.fa:hover{
+    transform: scale(2);
+}
+
+
+/*=========================== governing board====================== */
+.max li{
+    list-style: disc;
+}
+
+
+/*============================ management======================== */
+.lh-10{
+    line-height: 23px;
+}
+.bg-jumbotron{
+    background-color: #F7F7F7;
+}
+
+
+/*============================ Partner Agencies============================== */
+.logo-text{
+    color: green;
+    font-weight: 600;
+}
+
+
+
+@media(max-width:1110px){
+    .fr-12-1110{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
+
+
+@media(max-width:767px){
+    .fr-9-767 {
+        -ms-flex: 0 0 75%;
+        flex: 0 0 75%;
+        max-width: 75%;
+    }
+}
+
+@media(max-width:620px){
+    .fr-12-620{
+        -ms-flex: 0 0 100%;
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
