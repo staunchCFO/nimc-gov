@@ -173,6 +173,16 @@ a:hover{
     text-decoration: none;
     color: rgb(146, 197, 146);
 }
+.position{
+    position: relative;
+    top: 2rem;
+    right: -15rem;
+}
+.position{
+    position: relative;
+    top: 1rem;
+    right: -15rem;
+}
 
 
 /*================================= NIMC Profile=============================================== */
