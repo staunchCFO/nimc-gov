@@ -222,6 +222,238 @@ a:hover{
     font-weight: 600;
 }
 
+/*===============================tobi's css==================================*/
+*{
+    margin: 0;
+    padding:0;
+}
+.body{
+    background-image: url(../back2\ \(1\).jpg);
+}
+.First{
+    font-weight: light;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.set{
+    text-align: right;
+    font-weight: bold;
+    font-family:cursive;
+    color: rgb(129, 190, 129);
+}
+.First1{
+    text-align: center;
+    font-weight: light;
+    font-style: inherit;
+}
+.Lead{
+    border: 5px solid red;
+}
+.set2{
+    text-align: center;
+    font-size: 30px;
+    font-family: san;
+}
+.set3{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(43, 42, 42);
+}
+.set4{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(43, 42, 42);
+}
+.king{
+    border: 1px solid rgb(207, 205, 205);
+    border-radius: 20px;
+} 
+. nin{
+    text-justify: auto;
+    padding-bottom: 15px;
+}
+
+.set5{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(179, 172, 172);
+    font-size: 50px;
+    
+}
+.First3{
+    text-align: center;
+    color: black;
+    font-weight: light;
+    font-size: 40px;
+}
+.set6{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(119, 113, 113);
+    font-size: 22px;
+    
+}
+.set6s{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(119, 113, 113);
+    font-size: 20px;
+}
+.First4{
+    text-align: center;
+    color:#0a0a0a;
+    font-weight: light;
+    font-size: 40px;
+}
+.set7{
+    font-family:PT Sans;
+    font-style: italic;
+    font-size: 20px;
+}
+.set8{
+    font-family:PT Sans;
+    font-style: italic;
+    font-size: 20px;
+    color:#FF0000
+}
+.set9{
+    text-align: center;
+    color: black;
+    font-weight: light;
+    font-size: 40px;
+}
+.first5{
+    font-style:inherit;
+    font-family: PT Sans;
+    text-align: center;
+    color: #555555;
+    font-size: 25px;
+}
+.set10{
+    font-family: PT Sans;
+    font-style:inherit;
+    color:#464343;
+    word-spacing: 2px;
+    font-size: 20px;
+}
+.list{
+    font-size:20px;
+    font-family:PT Sans;
+    font-style: italic;
+    color:#555555 ;
+}
+ /*----------------------------Harmonization and Integration---------------------*/
+ .harp{
+    color:#44800D;
+    letter-spacing: 1px;
+
+}
+ .harp1{
+     border:15x solid;
+     padding: 3px 6px 3px 6px;
+     background-color:#447F0E; 
+     border-radius: 5px;
+}
+ .harps{
+     font-size: 13px;
+     font-family: PT Sans;
+ }
+
+.net{
+    font-size: 15px;
+    font-family: georgia;
+    letter-spacing: 1px;
+}
+.data{
+    border-left: 3px solid grey;
+}
+.harp2{
+    border:15x solid;
+     padding: 3px 6px 3px 6px;
+     background-color:#447F0E; 
+     border-radius: 5px;
+}
+.harps1{
+    font-size: 13px;
+     font-family: PT Sans;
+}
+.net2{
+    font-size: 15px;
+    font-family: georgia;
+    letter-spacing: 1px;
+}
+.nate{
+    font-style: PT Sans;
+    
+    font-size: 30px;
+}
+/* ==========================Digital Ecosystem========================== */
+.gracee{
+    font-size: 23px;
+    font-family: PT Sans;
+    letter-spacing: 2px;
+}
+.gracee1{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+    font-size: 13px;
+}
+.gracee2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+}
+.hill1{
+    font-size: 10px;
+    font-style: italic;
+    font-family:PT Sans;
+}
+.hill2{
+    font-family:Georgia;
+}
+.hills{
+    font-family: Lucida sans;
+    font-size:12px;
+}
+.hill3{
+    font-family: Lucida sans;
+    font-size:13px;
+}
+.read{
+    color: rgb(95, 91, 91);
+    font-size: 17px;
+    font-family: georgia;
+}
+.read1{
+    font-family:arial;
+    font-size:14px;
+}
+.reads{
+    font-family:arial;
+    font-size:12px;
+    letter-spacing: 1px;
+}
+.reads1{
+    font-style: italic;
+    font-family: pt sans;
+}
+.read2{
+    font-family:arial;
+    font-size:14px;
+}
+.readd{
+    font-size: 20px;
+}
+.readd2{
+    font-family:pt sans;
+}
+/* ===========================Service Level Agreement======================== */
+.rindd{
+    color: #248035;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.rind{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 13px;
+}
+.rind1{
+    font-size: 12px;
+    font-style: italic;
+    font-family:PT Sans;
+}
 
 
 @media(max-width:1110px){
